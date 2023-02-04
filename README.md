@@ -7,7 +7,7 @@ Section1 | Section2 | Section3 | ...
 
 นี้คือตัวอย่างของวิธีการที่ใส่ hyperlinks เพื่อไปในแต่ละส่วน(Heading)ที่เราต้องการ  
 
-[Drive-Thru](#Drive-Thru) | [AboutUs](#About-us)
+[Lunch](#Lunch) | [AboutUs](#About-us)
 
 ## Drive-Thru
  
