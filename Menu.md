@@ -15,6 +15,7 @@
 | Crab Fried Rice | 35 |
 | Cesar Salad | 65 |
 | Spagetthi Carbonara | 75 |
+| Porkchop Steak | 135 |
 
 ## Dinner
 
