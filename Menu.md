@@ -14,7 +14,7 @@
 
 
 ## Night Food
-| Menu               | Price (Baht)  |
+| Menu               | Price|
 |:-------------------------|----------|
 | Banana Fritters          | ฿45       |
 | Cheese Ball              | ฿35       |
