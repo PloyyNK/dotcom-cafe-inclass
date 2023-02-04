@@ -45,5 +45,11 @@
 | Soju       | ฿65   |
 
 ## Desserts  
+| Item       | Price |
+|:-----------|:-----:|
+| Vanilla Cake       | ฿50   |
+| Sweet Pudding  | ฿55   |
+| Chocolate chips biscuits | ฿45   |
+| Strawberry Ice Cream     | ฿55   |
 
 We accept PromptPay, KUPay, LinePay, AliPay, and cash. Sorry, no credit cards.

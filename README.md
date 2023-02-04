@@ -43,11 +43,20 @@
 | White Wine | ฿95   |
 | Soju       | ฿65   |
 
+## Desserts  
+| Item       | Price |
+|:-----------|:-----:|
+| Vanilla Cake       | ฿50   |
+| Sweet Pudding  | ฿55   |
+| Chocolate chips biscuits | ฿45   |
+| Strawberry Ice Cream     | ฿55   |
+
 ## About Us
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
 | Nartnatta Krivichian | Night Food | PloyyNK |
 | Warat Poovorakit | Beverages | oatwarat |
+| Nichakorn Chanajitpairee | Desserts| geeegrace02 |
 | Chaipot Kongjansawang | Breakfast | atonniic |
 | Worakorn Koonawootrittriron | Diner | Worakornk |
 | Narawit Sariddeechaikul | Alcoholic Beverages | narwpn |
