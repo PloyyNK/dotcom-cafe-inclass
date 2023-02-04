@@ -30,5 +30,6 @@ Section1 | Section2 | Section3 | ...
 
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
-| Chaipot Kongjansawang | Breakfast | Breakfast |
+| Chaipot Kongjansawang | Breakfast | atonniic |
+| Worakorn Koonawoot | Diner | Worakornk |
 
