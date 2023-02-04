@@ -2,12 +2,13 @@
 
 
 ## Breakfast
-    |Menu           |Price|
-    |:---:          |:---:|
-    |Pancakes       |30   |
-    |French Toast   |50   |
-    |Waffles        |25   | 
-    |Lo-Carb        |50   |
+| Menu | Price |
+|:------------:|:------------:|
+| Pancakes | ฿30 |
+| French Toast | ฿50 |
+| Waffles | ฿25 | 
+| Lo-Carb | ฿50 |
+    
 ## Lunch 
 
 
