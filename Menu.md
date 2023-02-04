@@ -14,12 +14,12 @@
 
 | Menu | Price |
 |---------|-------------|
-| Eggs Benedict | 70 |
-| Biscuit n' Gravy | 90 |
-| Omelet | 90 |
-| Bacon Cheese Burger | 190 |
-| Mixed Salad | 150 |
-| Reuben | 200 |
+| Eggs Benedict | ฿70 |
+| Biscuit n' Gravy | ฿90 |
+| Omelet | ฿90 |
+| Bacon Cheese Burger | ฿190 |
+| Mixed Salad | ฿150 |
+| Reuben | ฿200 |
 
 
 ## Night Food
