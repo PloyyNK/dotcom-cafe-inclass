@@ -1,6 +1,6 @@
 # DotCom Cafe
 
-[Breakfast](#breakfast) | [Lunch](#lunch) | [Dinner](#dinner) | [Night Food](#night-food) | [Beverages](#beverages) | [Alcoholic Beverages](#alcoholic-beverages) | [Desserts](#desserts)
+[Breakfast](#breakfast) | [Lunch](#lunch) | [Dinner](#Dinner) | [Night Food](#night-food) | [Beverages](#beverages) | [Alcoholic Beverages](#alcoholic-beverages) | [Desserts](#desserts)
 ## Breakfast
 | Menu | Price |
 |:------------:|:------------:|
@@ -20,7 +20,7 @@
 | Beef Burger | ฿100 |
 | Porkchop Steak | ฿135 |
 
-## Diner
+## Dinner
 | Menu | Price |
 |---------|-------------|
 | Eggs Benedict | ฿70 |
