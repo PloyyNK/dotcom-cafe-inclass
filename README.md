@@ -1,6 +1,5 @@
 # DotCom Cafe
 
-
 [Breakfast](#breakfast) | [Lunch](#lunch) | [Dinner](#dinner) | [Night Food](#night-food) | [Beverages](#beverages) | [Alcoholic Beverages](#alcoholic-beverages) | [Desserts](#desserts)
 ## Breakfast
 | Menu | Price |
@@ -9,6 +8,18 @@
 | French Toast | ฿50 |
 | Waffles | ฿25 | 
 | Lo-Carb | ฿50 |
+
+## Lunch 
+| Item | Price |
+|------|-------|
+| Crab Fried Rice | ฿35 |
+| Pad Thai | ฿50 |
+| kao kha mu | ฿60 |
+| Cesar Salad | ฿65 |
+| Spagetthi Carbonara | ฿75 |
+| Beef Burger | ฿100 |
+| Porkchop Steak | ฿135 |
+
 
 ## Night Food
 | Menu               | Price|
@@ -40,3 +51,5 @@
 | Chaipot Kongjansawang | Breakfast | atonniic |
 | Worakorn Koonawootrittriron | Diner | Worakornk |
 | Narawit Sariddeechaikul | Alcoholic Beverages | narwpn |
+| Sirapat Siripataravanit | Lunch | @nammonman |
+
