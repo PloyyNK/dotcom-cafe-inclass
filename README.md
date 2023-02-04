@@ -1,13 +1,6 @@
 # DotCom Cafe
 
-Section1 | Section2 | Section3 | ...
- 
-**TODO**: แก้เนื้อหาตรง "Section1 | Section2 ..." ให้เป็น hyperlinks ที่พาไปยังแต่ละส่วนของเมนูโดยมีแค่ **บรรทัดเดียว**   
-**TODO**: และอย่าลืมที่จะลบ TODO lines ทั้งหมดออกด้วย  
-
-นี้คือตัวอย่างของวิธีการที่ใส่ hyperlinks เพื่อไปในแต่ละส่วน(Heading)ที่เราต้องการ  
-
-[Lunch](#Lunch) | [AboutUs](#About-us)
+Section1 | [Lunch](#lunch) | Section3 | ...
 
 ## Drive-Thru
  
