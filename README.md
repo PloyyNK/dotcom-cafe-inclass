@@ -20,4 +20,6 @@
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
 | Warat Poovorakit | Beverages | oatwarat |
+| Chaipot Kongjansawang | Breakfast | atonniic |
+| Worakorn Koonawootrittriron | Diner | Worakornk |
 
