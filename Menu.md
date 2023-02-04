@@ -18,7 +18,13 @@
 
 ## Beverages
 
-
+## Alcoholic Beverages  
+| Item       | Price |
+|:-----------|:-----:|
+| Beer       | ฿50   |
+| Red Wine   | ฿85   |
+| White Wine | ฿95   |
+| Soju       | ฿65   |
 
 ---
 
