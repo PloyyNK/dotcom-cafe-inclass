@@ -1,6 +1,3 @@
-# KU Cafe Menu
-
-
 ## Breakfast
 | Menu | Price |
 |:------------:|:------------:|
@@ -8,12 +5,12 @@
 | French Toast | ฿50 |
 | Waffles | ฿25 | 
 | Lo-Carb | ฿50 |
-    
-## Lunch 
 
+## Lunch 
 
 ## Dinner
 
+## Night Food
 | Menu | Price |
 |---------|-------------|
 | Eggs Benedict | ฿70 |
@@ -23,7 +20,6 @@
 | Mixed Salad | ฿150 |
 | Reuben | ฿200 |
 
-
 ## Night Food
 | Menu               | Price|
 |:-------------------------|----------|
@@ -31,10 +27,14 @@
 | Cheese Ball              | ฿35       |
 | Popcorn                  | ฿55       |
 
-## Beverages
+## Alcoholic Beverages  
+| Item       | Price |
+|:-----------|:-----:|
+| Beer       | ฿50   |
+| Red Wine   | ฿85   |
+| White Wine | ฿95   |
+| Soju       | ฿65   |
 
-
-
----
+## Desserts  
 
 We accept PromptPay, KUPay, LinePay, AliPay, and cash. Sorry, no credit cards.
