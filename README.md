@@ -1,8 +1,8 @@
 # DotCom Cafe
 
-[Drive-Thru](#Drive-Thru) | [AboutUs](#About-us)
 
-## Drive-Thru
+[Breakfast](#breakfast) | [Lunch](#lunch) | [Dinner](#dinner) | [Night Food](#night-food) | [Beverages](#beverages) | [Alcoholic Beverages](#alcoholic-beverages) | [Desserts](#desserts)
+## Breakfast
 | Menu | Price |
 |:------------:|:------------:|
 | Pancakes | ฿30 |
@@ -10,13 +10,33 @@
 | Waffles | ฿25 | 
 | Lo-Carb | ฿50 |
 
+## Night Food
+| Menu               | Price|
+|:-------------------------|----------|
+| Banana Fritters          | ฿45       |
+| Cheese Ball              | ฿35       |
+| Popcorn                  | ฿55       |
+
+## Beverages 
+| Menu                 | Price|
+|:-------------------------|----------|
+| Orange juice               | 30    |
+| Chocolate              |  40     |
+| Mojito               | 50      |
+
+## Alcoholic Beverages  
+| Item       | Price |
+|:-----------|:-----:|
+| Beer       | ฿50   |
+| Red Wine   | ฿85   |
+| White Wine | ฿95   |
+| Soju       | ฿65   |
 
 ## About Us
-  
-**TODO**: ให้แต่ละคนใส่ชื่อของตัวเองเข้าไปในตาราง **ห้าม** ให้ใครคนใดคนหนึ่งใส่ชื่อของทุกคน หรือใส่ชื่อของคนอื่นแทน (Role คือหมวดหมู่อาหารที่ตัวเองเป็นคนรับผิดชอบ)
-
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
+| Nartnatta Krivichian | Night Food | PloyyNK |
+| Warat Poovorakit | Beverages | oatwarat |
 | Chaipot Kongjansawang | Breakfast | atonniic |
 | Worakorn Koonawootrittriron | Diner | Worakornk |
-
+| Narawit Sariddeechaikul | Alcoholic Beverages | narwpn |
