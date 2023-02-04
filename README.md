@@ -24,6 +24,14 @@
 | White Wine | ฿95   |
 | Soju       | ฿65   |
 
+## Desserts  
+| Item       | Price |
+|:-----------|:-----:|
+| Vanilla Cake       | ฿50   |
+| Sweet Pudding  | ฿55   |
+| Chocolate chips biscuits | ฿45   |
+| Strawberry Ice Cream     | ฿55   |
+
 ## About Us
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
