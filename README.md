@@ -1,6 +1,6 @@
 # DotCom Cafe
 
-[Breakfast](#Breakfast) | [Lunch](#Lunch) | [Dinner](#Dinner) | [Night Food](<#Night Food>) | [Beverages](#beverages) | [Alcoholic Beverages](<#Alcoholic Beverages>) | [Desserts](#Desserts)
+[Breakfast](#breakfast) | [Lunch](#lunch) | [Dinner](#dinner) | [Night Food](#night-food) | [Beverages](#beverages) | [Alcoholic Beverages](#alcoholic-beverages) | [Desserts](#desserts)
 
 ## Breakfast
 
