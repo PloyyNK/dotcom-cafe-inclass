@@ -2,6 +2,13 @@
 
 [Breakfast](#Breakfast) | [Lunch](#Lunch) | [Dinner](#Dinner) | [Night food](#Night food) | [Beverages](#Beverages) | [Dessert](#Dessert) | [Alcoholic Beverages](#Alcoholic Beverages)
 
+## Night Food
+| Menu               | Price|
+|:-------------------------|----------|
+| Banana Fritters          | ฿45       |
+| Cheese Ball              | ฿35       |
+| Popcorn                  | ฿55       |
+
 ## Beverages 
 
 | Menu                 | Price|
@@ -11,15 +18,13 @@
 | Mojito               | 50      |
 
 
-ถ้าอยากรู้วิธีการทำเป็นตารางเพิ่มเติม เช่น `|:---` และ `---:|` คืออะไรแล้วใช้ยังไง สามารถดูข้อมูลเพิ่มเติมได้ที่ [Organizing information with tables](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)   
-
-
-
 ## About Us
 
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
+| Nartnatta Krivichian | Night Food | PloyyNK |
 | Warat Poovorakit | Beverages | oatwarat |
 | Chaipot Kongjansawang | Breakfast | atonniic |
 | Worakorn Koonawootrittriron | Diner | Worakornk |
+
 
