@@ -10,7 +10,6 @@
 | Popcorn                  | ฿55       |
 
 ## Beverages 
-
 | Menu                 | Price|
 |:-------------------------|----------|
 | Orange juice               | 30    |
@@ -26,7 +25,6 @@
 | Soju       | ฿65   |
 
 ## About Us
-
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
 | Nartnatta Krivichian | Night Food | PloyyNK |
