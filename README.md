@@ -1,6 +1,14 @@
 # DotCom Cafe
 
+
 [Breakfast](#breakfast) | [Lunch](#lunch) | [Dinner](#dinner) | [Night Food](#night-food) | [Beverages](#beverages) | [Alcoholic Beverages](#alcoholic-beverages) | [Desserts](#desserts)
+## Breakfast
+| Menu | Price |
+|:------------:|:------------:|
+| Pancakes | ฿30 |
+| French Toast | ฿50 |
+| Waffles | ฿25 | 
+| Lo-Carb | ฿50 |
 
 ## Night Food
 | Menu               | Price|
