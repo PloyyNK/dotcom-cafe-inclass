@@ -29,6 +29,7 @@
 |:----------|-----------|-----------------|
 | Nartnatta Krivichian | Night Food | PloyyNK |
 | Warat Poovorakit | Beverages | oatwarat |
+| Nichakorn Chanajitpairee | Desserts| geeegrace02 |
 | Chaipot Kongjansawang | Breakfast | atonniic |
 | Worakorn Koonawootrittriron | Diner | Worakornk |
 | Narawit Sariddeechaikul | Alcoholic Beverages | narwpn |
