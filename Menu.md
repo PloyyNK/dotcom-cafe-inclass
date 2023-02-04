@@ -16,9 +16,9 @@
 ## Night Food
 | Menu               | Price (Baht)  |
 |:-------------------------|----------|
-| Banana Fritters          | 45       |
-| Cheese Ball              | 35       |
-| Popcorn                  | 55       |
+| Banana Fritters          | ฿45       |
+| Cheese Ball              | ฿35       |
+| Popcorn                  | ฿55       |
 
 ## Beverages
 
