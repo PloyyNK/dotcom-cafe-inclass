@@ -2,11 +2,13 @@
 
 
 ## Breakfast
-
-    Item                           Price
-    Fried Grasshoppers (terrible)  -10
-    (use proper Markdown formatting, not literal text like this)
-
+| Menu | Price |
+|:------------:|:------------:|
+| Pancakes | ฿30 |
+| French Toast | ฿50 |
+| Waffles | ฿25 | 
+| Lo-Carb | ฿50 |
+    
 ## Lunch 
 
 
